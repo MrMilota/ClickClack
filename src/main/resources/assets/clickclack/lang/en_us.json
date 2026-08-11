@@ -1,0 +1,38 @@
+{
+  "key.category.clickclack.clickclack": "ClickClack",
+  "key.clickclack.toggle": "Toggle ClickClack Mod",
+  "key.clickclack.open_config": "Open Settings",
+
+  "clickclack.gui.title": "ClickClack Settings",
+  "clickclack.gui.cps_position": "Adjust CPS Position",
+  "clickclack.gui.cps_position.hint": "Drag the CPS Counter to move",
+  "clickclack.gui.done": "Done",
+  "clickclack.gui.adjust_position": "Adjust Position",
+  "clickclack.gui.open_editor": "Open Editor",
+
+  "clickclack.gui.category.general": "General",
+  "clickclack.gui.category.cps": "CPS Counter",
+
+  "clickclack.config.enable_mod": "Enable Mod",
+  "clickclack.config.enable_mod.tooltip": "Toggle the entire mod on/off",
+
+  "clickclack.config.left_clicks_per_press": "Left Clicks per Press",
+  "clickclack.config.left_clicks_per_press.tooltip": "Number of left clicks sent per single left click press",
+
+  "clickclack.config.delay_left_between_clicks": "Delay LB Between Clicks (ms)",
+  "clickclack.config.delay_right_between_clicks": "Delay RB Between Clicks (ms)",
+  "clickclack.config.delay_between_clicks.tooltip": "Delay in milliseconds between each simulated click",
+
+  "clickclack.config.remap_right_to_left": "Remap Right Click to Left",
+  "clickclack.config.remap_right_to_left.tooltip": "If enabled, right click will send left clicks instead",
+
+  "clickclack.config.right_clicks_per_press": "Right Clicks per Press (when remapped)",
+  "clickclack.config.right_clicks_per_press.tooltip": "Number of left clicks sent per right click when remap is enabled",
+
+  "clickclack.config.enable_cps_counter": "Enable CPS Counter",
+  "clickclack.config.text_color": "Text Color",
+  "clickclack.config.background_color": "Background Color",
+
+  "clickclack.message.enabled": "[ClickClack] §aenabled",
+  "clickclack.message.disabled": "[ClickClack] §cdisabled"
+}

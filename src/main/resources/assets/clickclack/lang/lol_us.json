@@ -1,0 +1,38 @@
+{
+  "key.category.clickclack.clickclack": "ClickClack (teh best moddz)",
+  "key.clickclack.toggle": "Onz/Offz ClickClack teh moddz",
+  "key.clickclack.open_config": "I can haz settingz",
+
+  "clickclack.gui.title": "ClickClack Settingz, kthx",
+  "clickclack.gui.cps_position": "Moovz teh CPS countr",
+  "clickclack.gui.cps_position.hint": "Dragz teh CPS countr liek a mousie",
+  "clickclack.gui.done": "Iz dun",
+  "clickclack.gui.adjust_position": "Wherez teh countr",
+  "clickclack.gui.open_editor": "Opn teh editr",
+
+  "clickclack.gui.category.general": "Generalz stuffz",
+  "clickclack.gui.category.cps": "CPS Countr",
+
+  "clickclack.config.enable_mod": "Modz on plz",
+  "clickclack.config.enable_mod.tooltip": "Turnz teh hole mod on or offz, kthx",
+
+  "clickclack.config.left_clicks_per_press": "Haz many clickz per pres",
+  "clickclack.config.left_clicks_per_press.tooltip": "How many clickz ur mouse send wen u press wunce",
+
+  "clickclack.config.delay_left_between_clicks": "Weight tiem betwen clickz (ms)",
+  "clickclack.config.delay_right_between_clicks": "Weight tiem betwen rite clickz (ms)",
+  "clickclack.config.delay_between_clicks.tooltip": "How long teh moddz waitz betwen eech fak clickz",
+
+  "clickclack.config.remap_right_to_left": "Maek rite click be liek left click",
+  "clickclack.config.remap_right_to_left.tooltip": "If yez, rite click du teh left click thingz insted",
+
+  "clickclack.config.right_clicks_per_press": "Haz many clickz wen u press teh rite buttn",
+  "clickclack.config.right_clicks_per_press.tooltip": "How many left clickz happen wen u press rite buttn (if remap on)",
+
+  "clickclack.config.enable_cps_counter": "Show teh CPS countr plz",
+  "clickclack.config.text_color": "Colr of teh wordz",
+  "clickclack.config.background_color": "Colr of teh boxx",
+
+  "clickclack.message.enabled": "[ClickClack] §aiz on nao, yay",
+  "clickclack.message.disabled": "[ClickClack] §cno moar clickz 4 u"
+}

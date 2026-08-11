@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "clickclack",
+  "version": "0.0.1",
+  "name": "ClickClack",
+  "description": "Multiple clicks per press + CPS counter",
+  "authors": ["Broncks"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/clickclack/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": ["ru.broncks.plugins.clickclack.Clickclack"],
+    "client": ["ru.broncks.plugins.clickclack.client.ClickclackClient"],
+    "modmenu": ["ru.broncks.plugins.clickclack.client.config.ModMenuIntegration"]
+  },
+  "mixins": [
+    "clickclack.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "key.category.clickclack.clickclack": "ClickClack",
+  "key.clickclack.toggle": "Включить/выключить ClickClack мод",
+  "key.clickclack.open_config": "Открыть настройки",
+
+  "clickclack.gui.title": "Настройки ClickClack",
+  "clickclack.gui.cps_position": "Настройка позиции CPS",
+  "clickclack.gui.cps_position.hint": "Перетащите счётчик CPS, чтобы переместить",
+  "clickclack.gui.done": "Готово",
+  "clickclack.gui.adjust_position": "Позиция счётчика",
+  "clickclack.gui.open_editor": "Открыть редактор",
+
+  "clickclack.gui.category.general": "Основные",
+  "clickclack.gui.category.cps": "Счётчик CPS",
+
+  "clickclack.config.enable_mod": "Включить мод",
+  "clickclack.config.enable_mod.tooltip": "Включает/выключает работу мода целиком",
+
+  "clickclack.config.left_clicks_per_press": "Кликов ЛКМ за нажатие",
+  "clickclack.config.left_clicks_per_press.tooltip": "Сколько кликов левой кнопкой отправляется за одно нажатие ЛКМ",
+
+  "clickclack.config.delay_left_between_clicks": "Задержка ЛКМ между кликами (мс)",
+  "clickclack.config.delay_right_between_clicks": "Задержка ПКМ между кликами (мс)",
+  "clickclack.config.delay_between_clicks.tooltip": "Задержка в миллисекундах между каждым симулированным кликом",
+
+  "clickclack.config.remap_right_to_left": "Переназначить ПКМ на ЛКМ",
+  "clickclack.config.remap_right_to_left.tooltip": "Если включено, нажатие ПКМ будет отправлять клики ЛКМ вместо обычного действия",
+
+  "clickclack.config.right_clicks_per_press": "Кликов ЛКМ за нажатие ПКМ (при переназначении)",
+  "clickclack.config.right_clicks_per_press.tooltip": "Сколько кликов левой кнопкой отправляется за одно нажатие ПКМ, когда включено переназначение",
+
+  "clickclack.config.enable_cps_counter": "Показывать счётчик CPS",
+  "clickclack.config.text_color": "Цвет текста",
+  "clickclack.config.background_color": "Цвет фона",
+
+  "clickclack.message.enabled": "[ClickClack] §aвключён",
+  "clickclack.message.disabled": "[ClickClack] §cвыключен"
+}
